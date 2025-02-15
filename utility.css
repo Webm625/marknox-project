@@ -1,0 +1,117 @@
+main {
+    height: 100vh;
+}
+
+/* /////display flex ---------------------*/
+.flex-all {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.flex {
+    display: flex;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.justify-evenly {
+    justify-content: space-evenly;
+}
+.justify-between {
+    justify-content: space-between;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.gap-1 {
+    gap: 1rem;
+}
+
+/* test -align----------------- */
+.text-center {
+    text-align: center;
+}
+
+.text-start {
+    text-align: start;
+}
+
+/* link ------------------- */
+.link {
+    font-size: 1.3rem;
+    padding: 0.2rem 0.4rem;
+    height: 2rem;
+    width: max-content;
+    background-color: black;
+    color: white;
+    border-radius: 0.3rem;
+}
+
+/* anker ------------------------ */
+.a {
+   text-decoration: none;
+
+}
+
+/* margin -------------- */
+
+.margin-inline {
+    margin-inline: auto;
+}
+
+.margin-y {
+    margin: 1rem 0;
+}
+
+/* width --------- */
+.width-full {
+    width: 100%;
+}
+
+.width-50 {
+    width: 50%;
+}
+
+/* letter spacin -----------g */
+.letter-5 {
+    letter-spacing: 0.5px;
+}
+
+/* inpu -----------------t */
+
+.input {
+    height: 30px;
+    padding: 4px 8px;
+    border-radius: 4px;
+    outline: none;
+    border: none;
+
+}
+
+/* button ---------------  */
+.btn {
+    height: 30px;
+    padding: 4px 8px;
+    border-radius: 4px;
+    outline: none;
+    border: none;
+}
+
+
+/* font ------------ */
+.bold {
+    font: bold;
+}
+
+.font-2 {
+    font-size: 1.5rem;
+}
