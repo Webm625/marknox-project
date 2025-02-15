@@ -11,7 +11,8 @@ export default function Header() {
       <a href="index.html" className="link a">
         Home
       </a>
-      <a href= {About.jsx} lassName="link a">
+     
+      <a href="about" className="link a">
         About
       </a>
       <a href="portfolio" className="link a">
