@@ -1,6 +1,7 @@
 import React from 'react'
-import Header from './components/header/Header'
-import Footer from './components/footer/Footer'
+
+import Contact from './Components/Header/Header'
+import Contact from './Components/Footer/Footer'
 import Contact from './Components/Contact/Contact'
 import About from './Components/About/About'
 import Portfolio from './Components/Portfolio/Portfolio'
